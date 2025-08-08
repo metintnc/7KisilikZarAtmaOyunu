@@ -8,3 +8,5 @@ metotları içermelidir. Zarın 99 yüzü olacak ve her bir yüzü 1 ile 99 aras
 Ayrıca, zar atma işlemini gerçekleştirecek ZarAt adında bir metot içermelidir.
 Oyuncu adında bir sınıf tanımlayın. Bu sınıf, bir oyuncunun adını ve toplam puanını saklayacak özelliklere
 sahip olmalıdır. Ayrıca, oyuncunun bir zar atmasını sağlayacak ZarAt adında bir metot içermelidir.
+
+"Bilgisayar Mühendisliği 1.sınıf C# dilinde 2.ödev"
